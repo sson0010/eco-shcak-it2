@@ -1,0 +1,32 @@
+/*
+Theme Name: StrangerWP
+Theme URI: https://themearile.com/strangerwp-theme/
+Template: arilewp
+Author: ThemeArile
+Author URI: https://themearile.com
+Description: StrangerWP is fast, fully customizable & beautiful multipurpose WordPress theme suitable for blog, news, personal portfolio, business website and online store with professional design. As well as being fully compatible with Elementor, StrangerWP brings plenty of customization possibilities like access to all Google Fonts, logo upload, advanced typography, header image, sticky navigation, bootstrap 4 framework, built with SEO in mind, translation ready (WPML, Polylang) and it's built to be beautiful on all screen sizes. Also, StrangerWP supports popular free and premium WordPress plugins such as Elementor, Yoast SEO, WooCommerce, Contact Form 7, Jetpack, Google Analytics and much more. You can build pages using best Elementor page builder, edit and update page designs as per the requirement. Check the demo of ArileWP Pro https://themearile.com/arilewp-pro-theme/.
+Version: 1.1.7
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: strangerwp
+Tags: one-column, two-columns ,right-sidebar, flexible-header, custom-background, custom-header, custom-menu, editor-style, featured-images, footer-widgets, post-formats, theme-options, threaded-comments, rtl-language-support, translation-ready, full-width-template, custom-logo, blog, e-commerce, portfolio
+*/
+
+/*--------------------------------------------------
+=>> Theme Main Slider Two
+--------------------------------------------------*/
+
+.divider-sm-center {
+    max-width: 60px;
+    margin-left: auto;
+    margin-right: auto;
+	margin-bottom: 1rem;
+    background-color: transparent;
+	border-radius: 3px;
+}
+
+.theme-testimonial { 
+	background-image: url("./assets/img/theme-bg.jpg");
+	background-size: cover;
+	background-position: center center;
+}
